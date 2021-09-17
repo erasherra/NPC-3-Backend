@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Chatbot using OpenAI GPT-3 and messaging tools",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GPT-3"
+  ],
+  "author": "Amir Ingher",
+  "license": "ISC"
+}
